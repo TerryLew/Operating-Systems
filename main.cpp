@@ -5,4 +5,5 @@ int main() {
   
   
   std::cout << "It's me. Man" << std::endl;
+  std::cout << "It's second time." << std::endl;
 }
